@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is my ruby on rails 5 app :D
+### Features
 
-Things you may want to cover:
+- real time chat engine for shrek
+- blog
+- Portfolioli
+- Drag and cdrop intrefancy
 
-* Ruby version
+### Code Example
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* poop
+```ruby
+def my_great_method
+  puts "here it is"
+end
+```
